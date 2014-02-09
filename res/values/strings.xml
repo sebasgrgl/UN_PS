@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UN_PS</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="finder">RUTAS</string>
+    <string name="finder_spec">Trazar rutas entre edificios </string>
+    <string name="my_map">MI MAPA</string>
+    <string name="my_map_spec">Ver el mapa y buscar edificios</string>
+    <string name="events">MI HORARIO</string>
+    <string name="events_spec">Mi horario de clases  </string>
+    <string name="university">Universidad</string>
+	<string name="university_spec">Eventos en la Universidad Nacional</string>
+	<string name="personal">PERSONAL</string>
+	<string name="personal_spec">Materias - Horario</string>
+	<string name="sia">SIA</string>
+	<string name="sinab">SINAB</string>
+	<string name="un">UN</string>
+	<string name="correo_un">Correo UN</string>
+	<string name="new_account">Registrar una nueva cuenta</string>
+	<string name="already_account">Ya tienes una cuenta? Accede aquí</string>
+    <string name="password">Contraseña</string>
+    <string name="usr_email">Email</string>
+    <string name="full_name">Nombre completo</string>
+    <string name="login">Acceder</string>
+    <string name="new_user">Nuevo en UN PS? Registrate aquí</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="recovery_email">Type your registration email</string>
+    <string name="send_recovery_message">We will send you an email with your new password</string>
+    <string name="send_recovery_button">Send me the new password</string>
+    <string name="Buildings_list">Edificios UN</string>
+    <string name="buildings_spec">Listado de edificios de la UN</string>
+    <string name="buildings_unal">Edificios UN</string>
+    <string name="Remember_me">Recordarme</string> 
+    <string name="invalid_path">Ruta Invalida</string>
+    <string name="destiny">Edificio de destino</string>
+    <string name="origin">Edificio de origen</string>
+    <string name="offline_mode">Modo offline</string>
+    <string name="Developers">Sebastian Garzon - Daniel Alejandro Florez</string>
+    <string name="information">www.unps.comli.com</string>
+    <string name="ok">Aceptar</string>
+     <string name="about">Acerca de</string>	
+</resources>

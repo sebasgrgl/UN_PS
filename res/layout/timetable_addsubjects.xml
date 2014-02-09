@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LinearLayout
+    	xmlns:android="http://schemas.android.com/apk/res/android"  
+  		android:orientation="vertical"
+  		android:layout_width="fill_parent"  
+  		android:layout_height="fill_parent"> 
+		<TextView
+			android:id="@+id/add"
+	    	android:text="Añadir Actividad"
+	    	android:clickable="true"
+	    	android:onClick="addSubject"
+	    	android:drawableLeft="@android:drawable/ic_input_add"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:autoText="false">	        
+	    </TextView>
+	    <ImageView
+  			android:src="@android:drawable/bottom_bar"
+  			android:layout_width="fill_parent"
+  			android:layout_height="1dip"
+  			android:scaleType="fitXY"
+		/>
+		<ListView
+			android:id="@+id/Slist"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="1">
+		</ListView>
+	</LinearLayout>

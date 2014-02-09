@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.un_ps"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/> 
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:logo="@drawable/logo_48"
+        android:icon="@drawable/logo_48"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity android:name=".LoginActivity"
+                  android:label="UNPS">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.un_ps.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.un_ps.FinderActivity"
+            android:label="@string/finder" >
+        </activity>
+		<activity
+            android:name="com.example.un_ps.EventsActivity"
+            android:label="@string/events" >
+        </activity>
+        <activity android:name=".RecoveryPassActivity"
+                  android:label="Recover your password"></activity>
+        <activity android:name=".RegisterActivity"
+                  android:label="Register New Account"></activity>
+         <activity
+            android:name="com.example.un_ps.AddComment"
+            android:label="@string/app_name"  >
+        </activity>
+         <activity
+            android:name="com.example.un_ps.ReadComments"
+            android:label="@string/app_name"  >
+        </activity>
+        <activity
+            android:name="com.example.un_ps.MyMapActivity"
+            android:label="@string/app_name"  >
+        </activity>
+        <activity
+            android:name="com.example.un_ps.ImageTextListViewActivity"
+            android:label="@string/Buildings_list" >
+        </activity>
+        <activity
+            android:name="com.example.un_ps.SingleMenuItemActivity"
+            android:label="@string/Buildings_list" >
+        </activity>
+        <activity
+            android:theme="@style/Theme.Sherlock"
+            android:icon="@drawable/logo_48"
+            android:name="com.example.un_ps.TimetableActivity"
+            android:label="Timetable" >
+        </activity>
+		
+		<activity   android:name="com.example.un_ps.AddSubjects" 
+		            android:icon="@drawable/logo_48"
+            		android:label="Añadir Actividades">
+              <intent-filter>
+                <action android:name="addsubjects" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".UnalMapActivity"
+            android:label="Mapa UN" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,1058 @@
+[
+    {
+        "name": " ",
+        "num": " ",
+        "lon": " ",
+        "lat": " ",
+        "info": " ",
+        "desc": " "
+    },
+{
+        "name": "CADE Ingeniería",
+        "num": "-",
+        "lon": "-74.08164",
+        "lat": "4.63826",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Torre de Enfermería",
+        "num": "101",
+        "lon": "-74.08228",
+        "lat": "4.63520",
+        "info": "Proyecto: Arq. Jairo Novoa y Luis G. Hernández Año: 1969 - 1970",
+        "desc": "Construido para ser ocupado por las oficinas administrativas de la Universidad, ya que desde un principio, este edificio, ha sido considerado como el eje de la Institución, debido a su ubicación y altura. Con sus once pisos, es sin duda, la edificación más alta del Campus Universitario, es la única edificación dentro de la zona universitaria que posee ascensor. En el costado suroccidental de la edificación se encuentran la División Académica y la Unidad de Registro, y en el costado opuesto la librería de Unibiblos."
+    },
+    {
+        "name": "Biblioteca Central",
+        "num": "102",
+        "lon": "-74.08321",
+        "lat": "4.63525",
+        "info": "Proyecto: Arq. Alberto Estrada Año: 1968 - 1971",
+        "desc": "Es un sector indiscutible de convergencia para los estudiantes de la Ciudad Blanca. Posee varias salas, en sus cuatro pisos y un sótano, entre las que podemos contar: la sala de referencia, la hemeroteca, y una especial para ciegos, etc. Tiene una capacidad total aproximada de 3000 puestos. Remodelada entre el 2008 y 2009."
+    },
+    {
+        "name": "Polideportivo",
+        "num": "103",
+        "lon": "-74.08278",
+        "lat": "4.63452",
+        "info": "Proyecto: Arq. Gonzalo Vidal Año: 1968 - 1972",
+        "desc": "Construido para reunir bajo su estructura a la Cooperativa de Profesores y al Bienestar Estudiantil. actualmente se encuentra dotada de una amplia cafetería y cuenta con varias zonas de actividad deportiva."
+    },
+    {
+        "name": "Auditorio León de Greiff",
+        "num": "104",
+        "lon": "-74.08228",
+        "lat": "4.63568",
+        "info": "Proyecto: Arq. Eugenia de Cardozo Año: 1969 - 1973",
+        "desc": "Edificio construido con el fin de promover el contacto de la <Universidad> con la cultura de nuestro tiempo. Posee una excelente acústica y un gran diseño. su auditorio cuenta con capacidad para 1631 asientos.Por ser un modelo de belleza arquitectónica recibió el Premio Nacional de Arquitectura en 1973. Debe su nombre al maestro colombiano León De Greiff, importante figura de la literatura colombiana."
+    },
+    {
+        "name": "Facultad de Derecho-Ciencias Políticas y Sociales",
+        "num": "201",
+        "lon": "-74.08383",
+        "lat": "4.63545",
+        "info": "Proyecto: Arq. Alberto Wills Ferro Año: 1938 - 1940",
+        "desc": "Hace parte del grupo de las construcciones más antiguas del Campus Universitario. Posee en su segundo piso un consultorio jurídico. Ha presentado modificaciones en sus tres pisos.Gracias a su color, junto con otras edificaciones, generó el apelativo de Ciudad Blanca."
+    },
+    {
+        "name": "Edificio Orlando Fals Borda-Departamento de Sociología",
+        "num": "205",
+        "lon": "-74.08388",
+        "lat": "4.634435",
+        "info": "Proyecto: Arq. Reinaldo Valencia Año: 1962 - 1964",
+        "desc": "Construido con el fin de albergar las oficinas administrativas de la Facultad de Ciencias Humanas, y aunque en un principio compartieron el espacio aulas y oficinas, este edificio se ha relegado a ser centro administrativo y de conferencias. Construcción perteneciente al grupo de las que rompieron con la unidad de acabados exteriores que hasta el momento habían prevalecido. a partir de ahora ya no es más la Ciudad Blanca."
+    },
+    {
+        "name": "Museo de Arquitectura Leopoldo Rother",
+        "num": "207",
+        "lon": "-74.08317",
+        "lat": "4.63398",
+        "info": "Proyecto: Arq. Leopoldo Rother Año: 1938 - 1939",
+        "desc": "Construido para responder a las necesidades de elaboración de material bibliográfico. Terminó siendo un lugar meritorio para rendir homenaje al arquitecto gestor de los pilares del Campus Universitario. En su interior se exponen en forma permanente trabajos arquitectónicos y otras obras."
+    },
+    {
+        "name": "Facultad de Odontología",
+        "num": "210",
+        "lon": "-74.08523",
+        "lat": "4.63449",
+        "info": "Proyecto: Cuellar Serrano Gómez Año: 1951 - 1952",
+        "desc": "Inicialmente concebido para solucionar el espacio necesario para la ubicación de los alumnos que cursaban el año preparatorio, un año después -1953- se traslada a este sitio el Departamento de Economía y la Facultad de Odontología. En 1961 se adapta como sede única de Odontología donde permanece hasta ahora."
+    },
+    {
+        "name": "Cafetería de Odontología",
+        "num": "211",
+        "lon": "-74.08547",
+        "lat": "4.63440",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Aulas de Ciencias Humanas",
+        "num": "212",
+        "lon": "-74.08478",
+        "lat": "4.63396",
+        "info": " ",
+        "desc": "Edificio de Salones para estudiantes de ciencias Humanas y Cursos de Extensión de Ciencias Humanas"
+    },
+    {
+        "name": "Restaurante -Campus- de Ciencias Humanas",
+        "num": "213",
+        "lon": "-74.08439",
+        "lat": "4.63375",
+        "info": "Proyecto: Arq. Alfredo Roa Año: 1969",
+        "desc": "La razón principal de su construcción es la creación de espacios para la docencia teórica, en el área de Ciencias Humanas. Fue dotada con 31 aulas, 3 auditorios y 2 laboratorios, distribuidos en cuatro pisos.Fue construido con dineros correspondientes al empréstito BID - U.N. - 125."
+    },
+    {
+        "name": "Edificio Antonio Nariño-Departamento de Ingeniería Civil y Agrícola",
+        "num": "214",
+        "lon": "-74.08402",
+        "lat": "4.63350",
+        "info": "Proyecto: Arq. Julio Bonilla Plata Año: 1940 - 1941",
+        "desc": "Creado con el fin de servir de residencia a los estudiantes que no fueran de Bogotá -119 cupos-, se ubicó en este sitio ya que se encontraba cerca a la entrada principal. Estuvo durante un tiempo fuera de servicio, hasta que se decidió cederla para que funcionaran en ella el Departamento de Agrícola y el de Lingüistica. En el primer piso se adaptaron los laboratorios, en el segundo las aulas y las oficinas administrativas y docentes. los pisos tercero y cuarto cumplen diferentes funciones, en su mayoría académicas."
+    },
+    {
+        "name": "Edificio Francisco de Paula Santander-Diseño Gráfico",
+        "num": "217",
+        "lon": "-74.08315",
+        "lat": "4.63327",
+        "info": "Proyecto: Arq. Julio Bonilla Plata Año: 1939 - 1943",
+        "desc": "Al igual que su construcción hermana -214- fue diseñada para que residieran estudiantes -61 cupos-, contaba además con una gran cafetería. pero por el mal aprovechamiento que dieron de ella sus residentes, fue cerrada. Posteriormente fue cedida a la Facultad de Artes y ésta la utiliza para desarrollar las actividades correspondientes al Departamento de Diseño Gráfico y al posgrado de Bellas Artes. Consta de cuatro pisos en los cuales se reparten las aulas y oficinas que la ocupan."
+    },
+    {
+        "name": "Edificio Manuel Ancízar",
+        "num": "224",
+        "lon": "-74.08605",
+        "lat": "4.63400",
+        "info": "Año: 1969-1970",
+        "desc": "Código que agrupa una serie de edificaciones entre lazadas e intercomunicadas que hacen de esta construcción la más amplia dentro del Campus Universitario. Dentro de sus instalaciones se encuentran, distribuidas en sus tres pisos, tres facultades y un instituto. Las facultades que allí se encuentran son: Facultad de Derecho, Ciencias Políticas y Sociales -Consultorio jurídico, posgrado y la unidad de investigaciones-, Facultad de Ciencias Humanas -Departamento de Literatura e Historia-, Facultad de Ciencias -Geociencias y posgrados de Geofísica y Geología-, Instituto de Biotecnología -cuenta con 12 laboratorios-."
+    },
+    {
+        "name": "Edificio Rogelio Salmona de Postgrados en Ciencias Humanas",
+        "num": "225",
+        "lon": "-74.08653",
+        "lat": "4.63396",
+        "info": "Proyecto: Arq.RogelioSalmonaAño: 1997-1999",
+        "desc": "Es una de las edificaciones más nuevas, diseñado por el arquitecto Rogelio Salmona egresado de la Universidad y construido para albergar las dependencias de posgrado de la Facultad de Ciencias Humanas. Posee una arquitectura moderna y altamente atractiva. Diseñado y ejecutado con dineros propios de la Institución."
+    },
+    {
+        "name": "Departamento de lenguas extranjeras",
+        "num": "229",
+        "lon": "-74.08446",
+        "lat": "4.63296",
+        "info": "Proyecto: Arq.Leopoldo Rother Año: 1939-1940",
+        "desc": "Aunque fueron construidas para formar parte de un conjunto de cuatro casas destinadas para ser vivienda de profesores. Hizo parte del grupo con los cuales se inauguró la Ciudad Universitaria. Recientemente modificada y acondicionada para servir de sede al Departamento de Filología e Idiomas. En esta sede se dictan cursos de idiomas a estudiantes y particulares."
+    },
+    {
+        "name": "Banco Popular",
+        "num": "230",
+        "lon": "-74.08473",
+        "lat": "4.63292",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Departamento de Lenguas Extranjeras",
+        "num": "231",
+        "lon": "-74.08440",
+        "lat": "4.63309",
+        "info": "Proyecto: Arq. Leopoldo Rother Año: 1939-1940",
+        "desc": "Construido en la misma época que la edificación vecina -Aulas de Filología e Idiomas-, este edificio desempeña en la actualidad la función de laboratorio y aula de instrucción teórica en el área de idiomas. La obra de construcción fue ejecutada por el Ministerio de Obras Públicas."
+    },
+    {
+        "name": "Portería Peatonal Calle 26",
+        "num": "235",
+        "lon": "-74.08392",
+        "lat": "4.63249",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Postgrados de Ciencias Económicas",
+        "num": "238",
+        "lon": "-74.08322",
+        "lat": "4.63257",
+        "info": "Proyecto: Arq. Leopoldo Rother Año: 1939-1940",
+        "desc": "Es un edificio, uno de tantos en la Universidad, que ha sido habitado por muchos ocupantes desde un principio, pero éste sin lugar a dudas es el que mayor cantidad de servicios ha prestado -10 ocupantes en total durante toda su historia-. Actualmente residen en su interior: la Facultad de Ciencias Económicas -en sus programas de pregrado y posgrado-."
+    },
+    {
+        "name": "Filosofía",
+        "num": "239",
+        "lon": "-74.08335",
+        "lat": "4.63238",
+        "info": "Proyecto: Arq. LeopoldoRother Año: 1939-1940",
+        "desc": "Uno de los edificios más pequeños de la Ciudad Blanca, fue sede del museo de arte durante algunos años, el que cedió sus instalaciones a la Facultad de Ciencias Humanas, la cual la utiliza para que en ella se desarrollen las actividades relacionadas con el Departamento de Filosofía."
+    },
+    {
+        "name": "Capilla",
+        "num": "251",
+        "lon": "-74.08147",
+        "lat": "4.63289",
+        "info": "Proyecto: Arq. Edgar Burbano Año: 1948-1949",
+        "desc": "Construida para cumplir con el objeto de satisfacer a las necesidades de la Comunidad Universitaria en materia de servicios religiosos. Tiene una capacidad para 70 personas y cuenta con una zona para albergar a las personas religiosas que integran la comunidad católica.Ofrece los servicios básicos religiosos."
+    },
+    {
+        "name": "Portería Acceso Vehicular Capilla",
+        "num": "252",
+        "lon": "-74.08244",
+        "lat": "4.63267",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Portería Salida Vehicular Capilla",
+        "num": "253",
+        "lon": "-74.08070",
+        "lat": "4.63345",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Escuelade Artes Plásticas",
+        "num": "301",
+        "lon": "-74.08225",
+        "lat": "4.63627",
+        "info": "Proyecto: Arq. Erich Lange y Ernesto Blumenthal Año: 1940",
+        "desc": "Construcción que aloja parte de los talleres de pintura, los de grabado, dibujo y fotografía, entre otras. además cuenta con una biblioteca y un salón de proyecciones. Posee dos pisos y en sus reformas la más importante es la creación de un mezzanine."
+    },
+    {
+        "name": "Escuela de Arquitectura",
+        "num": "303",
+        "lon": "-74.08161",
+        "lat": "4.63671",
+        "info": "Proyecto:  Arq. Hernán Herrera Año: 1965 - 1969",
+        "desc": "Construido en dos etapas, y diseñado por el arquitecto Hernán Herrera, gracias a que su proyecto fue el ganador del concurso público de arquitectura propuesto en la Facultad. Posee, en sus tres pisos, talleres, aulas, espacio para docentes y oficinas administrativas."
+    },
+    {
+        "name": "Conservatorio de Música",
+        "num": "305",
+        "lon": "-74.08119",
+        "lat": "4.63563",
+        "info": "Proyecto:  Arq. Alberto Estrada Año: 1969 - 1971",
+        "desc": "Desde un comienzo, este edificio fue diseñado con la finalidad específica de alojar las zonas de ensayo y ejecución de estudios musicales. En la actualidad, en sus tres pisos, se encuentran además de estudios, aulas y salas de ensayo y audición, las oficinas administrativas del Departamento."
+    },
+    {
+        "name": "Talleres y Aulas de Construcción",
+        "num": "309",
+        "lon": "-74.08061",
+        "lat": "4.63623",
+        "info": "Proyecto:  Arq. Eduardo Mejía, Currie y De Roux Año: 1952 - 1953",
+        "desc": "Construido para adaptar en sus dependencias talleres y aulas para diversos Departamentos, entre los que se destacan Economía y Construcción. Es una pequeña construcción que cuenta con tres reducidos salones para instrucción académica y dos talleres de trabajo."
+    },
+    {
+        "name": "Facultad de Ciencias Económicas",
+        "num": "310",
+        "lon": "-74.08082",
+        "lat": "4.63728",
+        "info": "Proyecto:  Arq. Fernando Martínez y Guillermo Bermudez Año: 1961 - 1970",
+        "desc": "Construido en tres etapas -años: 61, 68 y 70-. Inicialmente funcionó como un Departamento adscrito a la Facultad de Ciencias Humanas pero en 1978 fue constituido como una Facultad propia, la Facultad de Ciencias Económicas."
+    },
+    {
+        "name": "Bloque II Facultad de Ciencias Económicas",
+        "num": "311",
+        "lon": "-74.08069",
+        "lat": "4.63691",
+        "info": "Proyecto:  Arq. Gonzalo Vidal Perdomo Año: 2001",
+        "desc": "Construcción ejecutada por la oficina de proyectos de la Facultad de Artes de la Universidad Nacional, esta edificación fue prevista para complementar los niveles académicos de la Facultad de Ciencias Económicas. proyectada para albergar las aulas, oficinas administrativas y de docentes que corresponden al área de posgrado."
+    },
+    {
+        "name": "Postgrados en Arquitectura-SINDU",
+        "num": "314",
+        "lon": "-74.08059",
+        "lat": "4.63579",
+        "info": "Proyecto:  Arq. Eduardo Mejía, Currie y De Roux Año: 1952 - 1953",
+        "desc": "Construido como sede de El Centro Interamericano de la Vivienda. Desde un principio el inmueble fue dotado de aulas, talleres, oficinas y una biblioteca que a lo largo del tiempo se ha ido enriqueciendo con valiosa información sobre Desarrollo Urbano."
+    },
+    {
+        "name": "Museo de Arte",
+        "num": "317",
+        "lon": "-74.08080",
+        "lat": "4.63451",
+        "info": "Proyecto:  Arq. Elsa Mahecha y Alberto Estrada Año: 1970 - 1973",
+        "desc": "Construido, en dos etapas, como respuesta a las necesidades que la Institución tenia para dotar de unas instalaciones apropiadas que pudieran albergar obras, arte y otras muestras de expresión artística."
+    },
+    {
+        "name": "Facultad de Ingeniería",
+        "num": "401",
+        "lon": "-74.08287",
+        "lat": "4.63726",
+        "info": "Proyecto:  Arq. Leopoldo Rother y Bruno Violi Año: 1943 - 1945",
+        "desc": "Fue uno de los edificios construidos con más altas especificaciones de acabados y muebles, con amplias áreas para oficinas y biblioteca. Las oficinas se encuentran actualmente ocupadas por la Decanatura de la Facultad y por otros sectores administrativos. Cuenta con tres pisos, salones de dibujo y una sala de informática."
+    },
+    {
+        "name": "Caseta de comestibles",
+        "num": "403",
+        "lon": "-74.08301",
+        "lat": "4.63836",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Departamentos de Matemáticas Física y Estadística",
+        "num": "404",
+        "lon": "-74.08227",
+        "lat": "4.63783",
+        "info": "Proyecto:  Arq. Leopoldo Rother Año: 1946 - 1947",
+        "desc": "Inicialmente creado como dependencia de la Facultad de Ingeniería, cuenta con varios laboratorios de investigación, aulas estudiantiles y oficinas para profesores y personal administrativo. Su construcción inicial era de dos pisos, pero posteriormente fue reformada a tres por el diseño del arquitecto Jairo Novoa."
+    },
+    {
+        "name": "Postgrados en Matemáticas y Física",
+        "num": "405",
+        "lon": "-74.08173",
+        "lat": "4.63778",
+        "info": "Proyecto:  Arq. Pablo Castaño Año: 1988 - 1991",
+        "desc": "Esta edificación fue construida en el marco del programa para el desarrollo de la capacidad de investigación -BID - ICFES - UN-. Es una prolongación del edificio de la Facultad de Matemáticas. Posee cuatro pisos y aulas suficientes para el desarrollo de proyectos de investigación en el área de posgrado."
+    },
+    {
+        "name": "Instituto de Extensión e Investigación",
+        "num": "406",
+        "lon": "-74.08260",
+        "lat": "4.63827",
+        "info": "Proyecto:  Arq. Leopoldo Rother Año: 1940 - 1942",
+        "desc": "Construido con el fin de albergar a los laboratorios de Ensayo de Materiales de la Facultad de Ingeniería. Esta función se conserva hasta el presente, aunque ahora recibe el nombre de Instituto de Ensayo e Investigación -I.E.I.-. En la actualidad reside en sus instalaciones el Departamento de Ingeniería Civil."
+    },
+    {
+        "name": "Postgrados en Materiales y Procesos de Manufactura",
+        "num": "407",
+        "lon": "-74.08215",
+        "lat": "4.63922",
+        "info": "Proyecto:  Arq. Gonzalo Arteaga Año: 1984 - 1990",
+        "desc": "Esta edificación fue construida en el marco del programa para el desarrollo de la capacidad de investigación -BID - Icfes - UN-. posee varios laboratorios especialmente acondicionados para los procesos que allí se desarrollan, también cuenta con salas para seminarios y una biblioteca especializada en procesos de manufactura."
+    },
+    {
+        "name": "Laboratorio de Hidráulica-Hangar",
+        "num": "408",
+        "lon": "-74.08157",
+        "lat": "4.63840",
+        "info": "Proyecto:  Ministerio de Obras Públicas Año: 1954 - 1955",
+        "desc": "Construido inicialmente como bodega del Ministerio de Obras Públicas bajo un contrato de comodato con la Universidad Nacional. luego de vencido el contrato la edificación pasó a ser parte de la Universidad, la cual remodeló la edificación acondicionándola para albergar los laboratorios de hidráulica."
+    },
+    {
+        "name": "Laboratorio de Hidráulica",
+        "num": "409",
+        "lon": "-74.08184",
+        "lat": "4.63867",
+        "info": "Proyecto:  Martínez Cárdenas Año: 1946",
+        "desc": "Edificio anexo al 408, el cual fue dotado de un gran tanque en el sótano y de espacios libres muy amplios para la construcción de modelos a escala uno a uno de procesos hidráulicos. Cuenta con tres pisos y un sótano en los cuales además de los laboratorios de ensayos presenta oficinas administrativas y de docencia."
+    },
+    {
+        "name": "Playa de Modelos",
+        "num": "410",
+        "lon": "-74.08174",
+        "lat": "4.63892",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Laboratorios de Ingeniería",
+        "num": "411",
+        "lon": "-74.08271",
+        "lat": "4.63919",
+        "info": "Proyecto:  Arq. Eugenia de Cardozo Año: 1967 - 1968",
+        "desc": "Construcción realizada para ampliar la cobertura docente del sector de Ingeniería. Para responder a dichos requerimientos, se construyó un grupo de talleres y laboratorios en las inmediaciones del edifico de Ensayo de Materiales. Fue el primer edificio que se construyó dentro del Plan Cuatrienal de Desarrollo de la Universidad."
+    },
+    {
+        "name": "Laboratorio de Ingeniería Química",
+        "num": "412",
+        "lon": "-74.08321",
+        "lat": "4.63877",
+        "info": "Proyecto:  Arq. Ricardo Bernal Año: 1981 - 1982",
+        "desc": "Construcción apodada La Casita en el Aire, ya que venía planeándose desde el año 1970. Se desarrollaron cuatro proyectos definitivos antes de efectuar los estudios técnicos. En este espacio se encuentran las dependencias de la Maestría de Ingeniería Química y los laboratorios de Investigación necesarios para la Facultad."
+    },
+    {
+        "name": "Observatorio Astronómico",
+        "num": "413",
+        "lon": "-74.08228",
+        "lat": "4.63975",
+        "info": "Proyecto:  Ministerio de Obras Públicas Año: 1943 - 1945",
+        "desc": "La construcción de este observatorio Geofísico fue idea del doctor Belisario Ruiz Wilches, consistía en una cúpula de observación enchapada en madera. luego de unos años esta dependencia fue dotada con nuevos equipos de observación y una cúpula adicional. Para mejorar su contexto académico recientemente fueron adicionadas nuevas aulas con capacidad para cincuenta estudiantes."
+    },
+    {
+        "name": "Canchas de Tennis T2-T4",
+        "num": "414",
+        "lon": "-74.08383",
+        "lat": "4.63968",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Departamento de Biología",
+        "num": "421",
+        "lon": "-74.08181",
+        "lat": "4.64104",
+        "info": "Proyecto:  Arq. Lepodo Rother Año: 1950 - 1959",
+        "desc": "Edificio creado para albergar la Facultad de Ciencias y en especial al Departamento de Biología.Fue uno de los edificios más demorados en su construcción ya que se necesitaron varias etapas para poder realizarlo -cinco en total-. Durante los años 1972 a 1976 se realizó una remodelación total. Inicialmente compartían espacio en este edificio Botánica y Biología. Cuenta con una gran variedad de laboratorios entre los que se destacan: biotecnología vegetal, genética , ecología, fisiología animal y vegetal."
+    },
+    {
+        "name": "Instituto de Ciencias Naturales",
+        "num": "425",
+        "lon": "-74.08190",
+        "lat": "4.64217",
+        "info": "Proyecto:  Arq. Elsa Mahecha Año: 1969 - 1971",
+        "desc": "Fue construido con el fin de alojar el Instituto de Ciencias Naturales y compartir su espacio con el Museo de Ciencias, algunos talleres y laboratorios, necesarios para otros Departamentos como son: Geociencia, Biología y Etnología. Obra contratada a través de la Oficina Ejecutiva de Empréstitos y Construcciones de la Universidad Nacional."
+    },
+    {
+        "name": "Instituto de Genética",
+        "num": "426",
+        "lon": "-74.08280",
+        "lat": "4.64293",
+        "info": "Proyecto:  Arq. Jorge Sánchez y Fernando Forero Año: 1987 - 1991",
+        "desc": "Construcción realizada bajo el marco del Programa para el Desarrollo de la Capacidad de Investigación -BID - Icfes - U.N.- de la institución. Es el único edificio de La Ciudad Blanca con una estructura geométrica regular, ya que es una construcción realizada de forma cuadrada perfecta, con un espacio central abierto."
+    },
+    {
+        "name": "Instituto Pedagógico Arturo Ramírez Montúfar: IPARM",
+        "num": "431",
+        "lon": "-74.08321",
+        "lat": "4.64060",
+        "info": "Proyecto:  Ministerio de Obras Públicas Año: 1950 - 1962",
+        "desc": "Forma parte de las muchas construcciones realizadas por el Ministerio de Obras Públicas para operar como depósito y talleres. Inicialmente se encontraban divididos en el Instituto de Aplicación Pedagógica -431 - 1950- y la escuela Ramírez Montufar -434 - 1962-. Estas instituciones se fusionaron en 1991, creando el instituto, que ahora se conoce como IPARM."
+    },
+    {
+        "name": "Almacén e Imprenta",
+        "num": "433",
+        "lon": "-74.08350",
+        "lat": "4.64076",
+        "info": "Proyecto:  Ministerio de Obras Públicas Año: 1950",
+        "desc": "Construido como un depósito de materiales para el Ministerio de Obras Públicas, es hoy el Almacén - Imprenta. encargado de elaborar los documentos y otras publicaciones de la Ciudad Universitaria y de sus integrantes."
+    },
+    {
+        "name": "Instituto Pedagógico Arturo Ramírez Montúfar IPARM",
+        "num": "434",
+        "lon": "-74.08288",
+        "lat": "4.64155",
+        "info": "Proyecto: Ministerio de Obras Públicas Año: 1950-1962",
+        "desc": "Forma parte de las muchas construcciones realizadas por el Ministerio de Obras Públicas para operar como depósito y talleres. Inicialmente se encontraban divididos en el Instituto de Aplicación Pedagógica -431 - 1950- y la escuela Ramírez Montufar -434 - 1962-. Estas instituciones se fusionaron en 1991, creando el instituto, que ahora se conoce como IPARM."
+    },
+    {
+        "name": "Talleres de Mantenimiento",
+        "num": "435",
+        "lon": "-74.08342",
+        "lat": "4.64105",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Parque Automotor",
+        "num": "436",
+        "lon": "-74.08374",
+        "lat": "4.64164",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Centrode Acopio de Residuos Sólidos",
+        "num": "437",
+        "lon": "-74.08407",
+        "lat": "4.64134",
+        "info": " ",
+        "desc": "Construido para permitir albergar y seleccionar los desechos sólidos que son despachados diariamente de las diferentes edificaciones del Campus Universitario. allí se realiza un proceso de separación demateriales - reciclables y no reciclables-."
+    },
+    {
+        "name": "Talleres y Gestiones de Mantenimiento",
+        "num": "438",
+        "lon": "-74.08345",
+        "lat": "4.64206",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Departamento de Farmacia",
+        "num": "450",
+        "lon": "-74.08382",
+        "lat": "4.63725",
+        "info": "Proyecto: Arq. Ricardo Bernal Año: 1978-1982",
+        "desc": "Es uno de los pocos edificios que sólo han tenido cambios mínimos en su estructura. sus últimas modificaciones se hicieron en los años 2000 - 2001, en donde se mejoraron los laboratorios de esta dependencia. Este edificio se encuentra comunicado con el de Química por una entrada lateral."
+    },
+    {
+        "name": "Departamento de Química",
+        "num": "451",
+        "lon": "-74.08396",
+        "lat": "4.63762",
+        "info": "Proyecto: Arq. Leopoldo Rother Año: 1945-1947",
+        "desc": "El proyecto inicial fue concebido para funcionar como sede de las facultades de Química, Farmacia e Ingeniería Química. Durante un corto tiempo contó con un invernadero en el costado nororiental. Se han realizado ampliaciones en los laboratorios y la biblioteca. cuenta con 4 pisos en donde se distribuyen los auditorios, las aulas y los laboratorios."
+    },
+    {
+        "name": "Postgrados en Bioquímica y Carbones",
+        "num": "452",
+        "lon": "-74.08454",
+        "lat": "4.63725",
+        "info": "Proyecto: Arq. Jairo Castañeda Año: 1984-1994",
+        "desc": "Construido para mejorar los espacios de investigación necesarios para los posgrados que allí se realizan. Fue diseñado en la Unidad de Planeación Física de la Universidad Nacional. construido en dos etapas: -1984 - 1987- estructura física y -1994- acabados cuarto y quinto piso."
+    },
+    {
+        "name": "Aulas de Ingeniería",
+        "num": "453",
+        "lon": "-74.08365",
+        "lat": "4.63853",
+        "info": "Proyecto: Arq. Francisco Rojas Año: 1969-1970",
+        "desc": "Construido para solucionar los problemas locativos del área correspondiente a la Facultad de Ingeniería. este proyecto fue modificado cuando estaba en curso de obra, ya que se considero importante adicionar en el piso segundo la zona administrativa de cada una de los Departamentos adscritos a la Facultad. Presenta en su estructura tres auditorios, ubicados en el primer piso."
+    },
+    {
+        "name": "Edificio de Ciencia y Tecnología - Luis Carlos Sarmiento Angulo",
+        "num": "454",
+        "lon": "-74.08475",
+        "lat": "4.63799",
+        "info": "Año: 2008",
+        "desc": "Cada piso contiene las coleciones de referencia, reserva y colección general, organizada por temáticas.   Segundo piso: 001-009 y 500-530 -ciencias de la información, matemáticas, estadistica- Tercer piso: 530.01 a 581.9 -Física, química, geologia, biologia- Cuarto piso: 582 a 699 -Zoología, Ingeniería, separatas- y Mapoteca"
+    },
+    {
+        "name": "Facultad de Medicina",
+        "num": "471",
+        "lon": "-74.08465",
+        "lat": "4.63657",
+        "info": "Proyecto: Arq. Samuel García Año: 1954",
+        "desc": "Construcción, de cinco pisos, que empieza a marcar la perdida de carácter urbanístico señalado desde un principio en la Ciudad Blanca. A partir de este momento la arquitectura no volvió a ser la misma, cuyo vuelco concluye con la construcción del edificio de Sociología."
+    },
+    {
+        "name": "SubestaciónEléctrica",
+        "num": "472",
+        "lon": "-74.08497",
+        "lat": "4.63690",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Perrera",
+        "num": "473",
+        "lon": "-74.08515",
+        "lat": "4.63662",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Facultad de Ciencias",
+        "num": "476",
+        "lon": "-74.08555",
+        "lat": "4.63735",
+        "info": "Proyecto: Erich Lange Año: 1937-1938",
+        "desc": "Proyectado como el Instituto Botánico, fue sede de los departamentos de Farmacia y Geología. al igual que de la Facultad de Agronomía.  En la actualidad pertenece a la Facultad de Ciencias, posee el museo de Geociencias y la biblioteca especializada de la Facultad. Se encuentra la Decanatura, el taller del CEIF, las aulas de posgrado y pagaduría."
+    },
+    {
+        "name": "Aulas de Informática",
+        "num": "477",
+        "lon": "-74.08529",
+        "lat": "4.63690",
+        "info": "Proyecto: Arq.AlonsoCasteblancoAño: 1962-1963",
+        "desc": "Construido para albergar las aulas de Geociencias, es actualmente el edificio que colma las necesidades de sistematización que los estudiantes de la Universidad Nacional tienen. Consta de aproximadamente 80 computadoras con acceso a Internet y posibilidad de impresión. el costo es mínimo y las instalaciones cómodas -posee dos pisos-. Posee un laboratorio de desarrollo informático. Su uso se encuentra restringido para aquellos estudiantes que estén cursando materias virtuales de carácter semipresencial."
+    },
+    {
+        "name": "Depósitos Facultad de Medicina",
+        "num": "480",
+        "lon": "-74.08515",
+        "lat": "4.63647",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Facultad de Medicina Veterinaria y Zootecnia",
+        "num": "481",
+        "lon": "-74.08537",
+        "lat": "4.63609",
+        "info": "Proyecto:  Arq. Alonso Casteblanco Año: 1962 - 1963",
+        "desc": "Construido para albergar las aulas de Geociencias, es actualmente el edificio que colma las necesidades de sistematización que los estudiantes de la Universidad Nacional tienen. Consta de aproximadamente 80 computadoras con acceso a Internet y posibilidad de impresión. el costo es mínimo y las instalaciones cómodas -posee dos pisos-. Posee un laboratorio de desarrollo informático. Su uso se encuentra restringido para aquellos estudiantes que estén cursando materias virtuales de carácter semipresencial."
+    },
+    {
+        "name": "Cancha de Tennis T1",
+        "num": "495",
+        "lon": "-74.08594",
+        "lat": "4.63845",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Departamento de Agronomía",
+        "num": "500",
+        "lon": "-74.08730",
+        "lat": "4.63601",
+        "info": "Proyecto:  Arq. Ligia de Erasso y Ernesto Gómez Año: 1969 - 1970",
+        "desc": "Edificio construido con el fin de proveer una sede común a las facultades de Medicina, Veterinaria y Agronomía. formando así lo que se denominaría la Facultad de Ciencias Agropecuarias. Pero el intento de integración fue un completo fracaso, y entonces la zona fue ocupada por dependencias académicas y administrativas de Agronomía."
+    },
+    {
+        "name": "Planta de Leches y Vegetales",
+        "num": "500A",
+        "lon": "-74.08801",
+        "lat": "4.63594",
+        "info": " ",
+        "desc": "Edificación que hace parte de un conjunto de cuatro, las cuales fueron diseñadas y construidas con el fin de responder a los programas de docencia, investigación y asesoría, en el área de alimentos. En su conjunto reciben el nombre de Instituto de Ciencia y Tecnología de Alimentos. En ella se investigan, analizan, producen y procesan derivados lácteos y productos vegetales de diversa índole."
+    },
+    {
+        "name": "Planta de Carnes",
+        "num": "500B",
+        "lon": "-74.08875",
+        "lat": "4.63533",
+        "info": " ",
+        "desc": "Edificación, de un piso, recientemente construida con el fin de responder a las necesidades que presentaba el área de alimentos de contar con instalaciones propias para realizar sus programas docentes y otras actividades como seminarios y congresos, posee tres auditorios. Cuenta con un supermercado con un área cercana a los 50 m2 y que se encarga de distribuir los productos que le abastecen las plantas de procesamiento de alimentos -carne, lácteos y vegetales-."
+    },
+    {
+        "name": "Laboratorio de Control de Calidad",
+        "num": "500C",
+        "lon": "-74.08764",
+        "lat": "4.63543",
+        "info": " ",
+        "desc": "Edificación, de un piso, recientemente construida con el fin de responder a las necesidades que presentaba el área de alimentos de contar con instalaciones propias para realizar sus programas docentes y otras actividades como seminarios y congresos, posee tres auditorios. Cuenta con un supermercado con un área cercana a los 50 m2 y que se encarga de distribuir los productos que le abastecen las plantas de procesamiento de alimentos -carne, lácteos y vegetales-."
+    },
+    {
+        "name": "Supermercado y Aulas",
+        "num": "500D",
+        "lon": "-74.08852",
+        "lat": "4.63552",
+        "info": " ",
+        "desc": "Edificación, eje central del conjunto, que fue diseñada y construida con el fin de responder a los programas de investigación en calidad y asesoría de control de procesos en el área de alimentos. Dentro de sus instalaciones se encuentran las oficinas administrativa. Es el centro de investigación fisicoquímico y microbiológico de alimentos elaborados en las plantas de procesamiento de la Universidad y en las asesorías de calidad realizadas a productos foráneos."
+    },
+    {
+        "name": "Caseta de Máquinas",
+        "num": "500E",
+        "lon": "-74.08799",
+        "lat": "4.63667",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Invernadero de control",
+        "num": "500F",
+        "lon": "-74.08878",
+        "lat": "4.63662",
+        "info": "Invernadero",
+        "desc": "Invernadero"
+    },
+    {
+        "name": "Caseta de servicios",
+        "num": "500G",
+        "lon": "-74.08816",
+        "lat": "4.63650",
+        "info": "Caseta de servicios",
+        "desc": "Caseta de servicios"
+    },
+    {
+        "name": "Invernadero de Programación",
+        "num": "500H",
+        "lon": "-74.08845",
+        "lat": "4.63676",
+        "info": "Invernadero de Programación",
+        "desc": "Invernadero de Programación"
+    },
+    {
+        "name": "Invernadero de Crecimiento",
+        "num": "500I",
+        "lon": "-74.08950",
+        "lat": "4.63660",
+        "info": "Invernadero de Crecimiento",
+        "desc": "Invernadero de Crecimiento"
+    },
+    {
+        "name": "Invernadero de Crecimiento",
+        "num": "500J",
+        "lon": "-74.08910",
+        "lat": "4.63628",
+        "info": "Invernadero de Crecimiento",
+        "desc": "Invernadero de Crecimiento"
+    },
+    {
+        "name": "Invernadero de Crecimiento",
+        "num": "500K",
+        "lon": "-74.08878",
+        "lat": "4.63597",
+        "info": "Invernadero de Crecimiento",
+        "desc": "Invernadero de Crecimiento"
+    },
+    {
+        "name": "Centro de Compostaje",
+        "num": "500L",
+        "lon": "-74.08986",
+        "lat": "4.63619",
+        "info": "Centro de Compostaje",
+        "desc": "Centro de Compostaje"
+    },
+    {
+        "name": "Invernadero de Crecimiento",
+        "num": "500M",
+        "lon": "-74.08915",
+        "lat": "4.63556",
+        "info": "Invernadero de Crecimiento",
+        "desc": "Invernadero de Crecimiento"
+    },
+    {
+        "name": "Invernadero de Crecimiento",
+        "num": "500N",
+        "lon": "-74.09023",
+        "lat": "4.63577",
+        "info": "Invernadero de Crecimiento",
+        "desc": "Invernadero de Crecimiento"
+    },
+    {
+        "name": "Invernadero de Crecimiento",
+        "num": "500O",
+        "lon": "-74.08994",
+        "lat": "4.63549",
+        "info": "Invernadero de Crecimiento",
+        "desc": "Invernadero de Crecimiento"
+    },
+    {
+        "name": "Invernadero de Crecimiento",
+        "num": "500P",
+        "lon": "-74.08955",
+        "lat": "4.63519",
+        "info": "Invernadero de Crecimiento",
+        "desc": "Invernadero de Crecimiento"
+    },
+    {
+        "name": "Cirugía y Clínica de Grandes Animales",
+        "num": "501",
+        "lon": "-74.08565",
+        "lat": "4.63606",
+        "info": "Proyecto:  Arq. Erich Lange y Ernesto Blumenthal Año: 1937 - 1938",
+        "desc": "Edificación anexa a la sede de Veterinaria, creada para proveer a los estudiantes de espacios adecuados para la práctica de los estudios realizados en la Facultad. en ella se realizan pequeñas cirugías de grandes animales. Se atienden animales de la Universidad Nacional y otros. En esta zona sólo se realizan intervenciones quirúrgicas de pequeña y mediana escala."
+    },
+    {
+        "name": "Aula y Laboratorios de Histopatología e Inseminación",
+        "num": "502",
+        "lon": "-74.08572",
+        "lat": "4.63570",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Auditorios Anfiteatros y Microbiología",
+        "num": "503",
+        "lon": "-74.08566",
+        "lat": "4.63501",
+        "info": "Proyecto:  Arq. Erich Lange, Jorge Rincón y Alberto Corradine Año: 1937 - 1938",
+        "desc": "Proyecto realizado para mejorar las condiciones locativas y de logística necesarias en la Facultad, posee cuartos adecuados como laboratorios de microbiología, anfiteatros y otros diseñados para actividades académicas -seminarios y exposiciones-."
+    },
+    {
+        "name": "Patología Aviar- Gallinero y Perrera",
+        "num": "504",
+        "lon": "-74.08580",
+        "lat": "4.63527",
+        "info": "Proyecto:  Arq. Erich Lange, Ernesto Blumenthal y Jorge Rincón Año: 1937 - 1938",
+        "desc": "Proyecto realizado con otro conjunto de edificaciones encargadas de complementar y facilitar las labores que son necesarias de ejecutar dentro de los parámetros que desarrolla la Facultad de Veterinaria. Cuenta con una sala de estudio, un auditorio con capacidad para 120 personas y una Unidad de Rescate y Rehabilitación de Animales Silvestres -U.R.R.A.S.-."
+    },
+    {
+        "name": "Laboratorio de Inseminación y Corral de Equinos",
+        "num": "505",
+        "lon": "-74.08604",
+        "lat": "4.63562",
+        "info": "Proyecto:  Arq. Erich Lange, Ernesto Blumenthal Año: 1937 - 1938",
+        "desc": "Espacio construido con el fin de proveer los sitios adecuados para el desarrollo de las actividades de investigación que conciernen al estudio y formación de nuevas y mejoradas especies animales. Es una construcción que con el tiempo se ha adecuado para que ejerza en forma satisfactoria su función."
+    },
+    {
+        "name": "Laboratorio de Patología Clínica y Corral de Bovinos",
+        "num": "506",
+        "lon": "-74.08608",
+        "lat": "4.63612",
+        "info": "Proyecto:  Arq. Erich Lange, Ernesto Blumenthal Año: 1969 - 1970",
+        "desc": "Construido para albergar a las especies bovinas, y de esta manera contar con los espacios adecuados para promover la investigación y el estudio de estas especies animales. Esta construcción en conjunto con las demás de la zona, constituyen el eje de la Facultad. En ella se encuentran las oficinas de docentes de la Facultad de Medicina Veterinaria y Zootecnia, también se hallan las pesebreras para los animales que se van a hospitalizar, tratar o investigar."
+    },
+    {
+        "name": "Clínica de Pequeños Animales",
+        "num": "507",
+        "lon": "-74.08613",
+        "lat": "4.63664",
+        "info": "Proyecto:  Arq. Ligia de Erasso y Ernesto Gómez Año: 1969 - 1970",
+        "desc": "Edificio construido dos veces. ya que en 1939 fue diseñado por el arquitecto Ernesto Blumenthal, pero esta obra fue demolida en 1965, para dar paso a una nueva construcción, más moderna y confortable. Fue ejecutada la nueva construcción dentro del marco de inversiones BID - U.N. - 125."
+    },
+    {
+        "name": "Oficinas",
+        "num": "508",
+        "lon": "-74.08621",
+        "lat": "4.63642",
+        "info": "Proyecto:  Arq. Erich Lange y Ernesto Blumenthal Año: 1969 - 1970",
+        "desc": "Construido según preceptos establecidos en el diseño original de la Universidad Nacional, el edificio fue reformado tras una gran demolición de un sector en su estructura, la cual tenía como objetivo realizar un mejoramiento locativo, ya que se pretendía adaptar la estructura para albergar las oficinas de los docentes. Actualmente cumple la función de contener los laboratorios básicos, las bodegas, la dirección general de la clínica y un sector para estudiantes -sala de estudio-."
+    },
+    {
+        "name": "Farmacia y Oficinas",
+        "num": "510",
+        "lon": "-74.08619",
+        "lat": "4.63582",
+        "info": "Proyecto:  Arq. Erich Lange y Ernesto Blumenthal Año: 1937 - 1938",
+        "desc": "Edificación de dos plazas, construida por la Oficina de Edificios Nacionales -Ministerio de Obras Públicas-, la cual cumple con varias funciones: ser sede de las oficinas docentes -segundo piso-, contar con un centro de fotocopiado -primer piso- y contener el archivo general de la Facultad de Medicina Veterinaria, Agronomía y Zootecnia."
+    },
+    {
+        "name": "Laboratorio de Investigaciones Patológicas",
+        "num": "531",
+        "lon": "-74.08650",
+        "lat": "4.63505",
+        "info": "Proyecto:  Arq. Esguerra, Saenz y Urdaneta Año: 1961 - 1967",
+        "desc": "Edificio construido en comodato con el Instituto Colombiano Agropecuario -I.C.A.- para cumplir con las funciones de investigación ejercidas por esta institución. Se mantiene un convenio con esta institución, el cual permite a los estudiantes utilizar en forma periódica sus instalaciones. Actualmente recibe el nombre de Corpoica."
+    },
+    {
+        "name": "Laboratorio de Investigaciones Patológicas",
+        "num": "532",
+        "lon": "-74.08705",
+        "lat": "4.63511",
+        "info": "Proyecto:  Arq. Esguerra, Saenz y Urdaneta Año: 1961 - 1967",
+        "desc": "Edificio construido en comodato con el Instituto Colombiano Agropecuario -I.C.A.- para cumplir con las funciones de investigación ejercidas por esta institución. Se mantiene un convenio con esta institución, el cual permite a los estudiantes utilizar en forma periódica sus instalaciones. Actualmente recibe el nombre de Corpoica."
+    },
+    {
+        "name": "Laboratorio de Investigaciones Patológicas",
+        "num": "533",
+        "lon": "-74.08737",
+        "lat": "4.63478",
+        "info": "Proyecto:  Arq. Esguerra, Saenz y Urdaneta Año: 1961 - 1967",
+        "desc": "Edificio construido en comodato con el Instituto Colombiano Agropecuario -I.C.A.- para cumplir con las funciones de investigación ejercidas por esta institución. Se mantiene un convenio con esta institución, el cual permite a los estudiantes utilizar en forma periódica sus instalaciones. Actualmente recibe el nombre de Corpoica."
+    },
+    {
+        "name": "Laboratorio de Investigaciones Patológicas",
+        "num": "534",
+        "lon": "-74.08722",
+        "lat": "4.63432",
+        "info": "Proyecto:  Arq. Esguerra, Saenz y Urdaneta Año: 1961 - 1967",
+        "desc": "Edificio construido en comodato con el Instituto Colombiano Agropecuario -I.C.A.- para cumplir con las funciones de investigación ejercidas por esta institución. Se mantiene un convenio con esta institución, el cual permite a los estudiantes utilizar en forma periódica sus instalaciones. Actualmente recibe el nombre de Corpoica."
+    },
+    {
+        "name": "Laboratorio de Investigaciones Patológicas",
+        "num": "535",
+        "lon": "-74.08768",
+        "lat": "4.63446",
+        "info": "Proyecto:  Arq. Esguerra, Saenz y Urdaneta Año: 1961 - 1967",
+        "desc": "Edificio construido en comodato con el Instituto Colombiano Agropecuario -I.C.A.- para cumplir con las funciones de investigación ejercidas por esta institución. Se mantiene un convenio con esta institución, el cual permite a los estudiantes utilizar en forma periódica sus instalaciones. Actualmente recibe el nombre de Corpoica."
+    },
+    {
+        "name": "Laboratorio de Investigaciones Patológicas",
+        "num": "537",
+        "lon": "-74.08833",
+        "lat": "4.63433",
+        "info": "Proyecto:  Arq. Esguerra, Saenz y Urdaneta Año: 1961 - 1967",
+        "desc": "Edificio construido en comodato con el Instituto Colombiano Agropecuario -I.C.A.- para cumplir con las funciones de investigación ejercidas por esta institución. Se mantiene un convenio con esta institución, el cual permite a los estudiantes utilizar en forma periódica sus instalaciones. Actualmente recibe el nombre de Corpoica."
+    },
+    {
+        "name": "Posgrados de Veterinaria",
+        "num": "561",
+        "lon": "-74.08767",
+        "lat": "4.63771",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Oficinas de Producción Animal",
+        "num": "561A",
+        "lon": "-74.08728",
+        "lat": "4.63757",
+        "info": " ",
+        "desc": "En este construcción se encuentran las oficinas de docentes y la Dirección del Departamento de Ciencias para la Producción animal. Este edificio fue adaptado para albergar únicamente la parte administrativa del Departamento."
+    },
+    {
+        "name": "Posgrado Reproducción Animal",
+        "num": "561B",
+        "lon": "-74.08723",
+        "lat": "4.63775",
+        "info": " ",
+        "desc": "Proyecto desarrollado por el Arq. Leopoldo Rother entre 1944 y 1950 Es una gran construcción, de dos pisos, subdividida en varios laboratorios con funciones independientes y diferentes enfoques. entre ellos encontramos: toxicología, nutrición en rumiantes, morfofisiología, citogenética y cultivos celulares entre otros. Cuenta con dos salones para proyecciones y uno muy grande para trabajo académico."
+    },
+    {
+        "name": "Bioterio y Establos de Producción",
+        "num": "561C",
+        "lon": "-74.08777",
+        "lat": "4.63750",
+        "info": " ",
+        "desc": "Edificación adaptada para contener cuatro unidades destinadas a la producción de animales de laboratorio. estos animales son concebidos dentro de condiciones controladas que le permiten ser biomodelos para proyectos de investigación necesarios para lograr progresos en la salud humana y animal. Actualmente sólo se trabaja con ratones, los cuales se producen por colonia o por cepa."
+    },
+    {
+        "name": "Comportamiento Animal",
+        "num": "561D",
+        "lon": "-74.08797",
+        "lat": "4.63736",
+        "info": " ",
+        "desc": "En este sitio se realizan prácticas de la clase de psicología, las prácticas son de carácter básico y profesional. consta de investigaciones de comportamiento instintivo y sexual de animales -ratones y codornices- que permitan establecer parámetros que se puedan extrapolar al ser humano. Se trabajan investigaciones de conducta compleja humana para tesis en pregrado y posgrado, pero todas basadas en comportamiento animal."
+    },
+    {
+        "name": "Investigaciones Avícolas",
+        "num": "561E",
+        "lon": "-74.08817",
+        "lat": "4.63716",
+        "info": "Año: 1994",
+        "desc": "Proyecto adelantado con el auspicio de la agencia de cooperación internacional del Japón - JICA -. Dentro de sus instalaciones se realizan prácticas experimentales para mejorar la nutrición, evitar la toxicología y ejecutar planes vacunales -en especies de pollos, codornices, patos y/o pavos reales-. Se han elaborado prácticas de investigación docente y estudiantil -Pregrado, Posgrado y Doctorado-."
+    },
+    {
+        "name": "Bioterio de Experimentación",
+        "num": "561F",
+        "lon": "-74.08783",
+        "lat": "4.63709",
+        "info": " ",
+        "desc": "Estructura modificada para cumplir con las condiciones necesarias para desarrollar las investigaciones con los biomodelos generados en el Bioterio de Producción. Es de carácter independiente y alejado de otras edificaciones para permitir un aislamiento necesario para la correcta ejecución de los procesos investigativos que allí se realizan."
+    },
+    {
+        "name": "Unibiblos",
+        "num": "561G",
+        "lon": "-74.08756",
+        "lat": "4.63719",
+        "info": " ",
+        "desc": "Edificación que tiene como misión impulsar y desarrollar políticas relacionadas con la edición, impresión y venta de las publicaciones culturales, científicas y tecnológicas en especial de la Universidad Nacional. Posee un excelente manejo de información y una alta calidad, actualmente produce un promedio de 1500 libros y 60 revistas. Fue creada en 1997 para que se cumpliera en una sola dependencia la edición, producción, impresión y distribución de material de interés académico."
+    },
+    {
+        "name": "Aulas y depósitos Unibiblos",
+        "num": "561H",
+        "lon": "-74.08764",
+        "lat": "4.63691",
+        "info": " ",
+        "desc": "Edificio acoplado para servir como depósito del material impreso en el área de Unibiblos, posee una capacidad de almacenamiento cercana a los 5000 libros . Cuenta además con una gran aula con capacidad para 80 alumnos."
+    },
+    {
+        "name": "Horno Crematorio",
+        "num": "561I",
+        "lon": "-74.08840",
+        "lat": "4.63709",
+        "info": " ",
+        "desc": "En esta zona se construyó un horno crematorio encargado de destruir todo material patógeno producido en la Universidad. se encarga tanto de la zona de producción animal como de Medicina y de Veterinaria, entre otros. Cuenta con una persona encargada de los trabajos de destrucción. Tiene un horario de trabajo de 8 : 00 a.m. a 4 : 00 p.m., su estructura está reforzada con ladrillo rafractario y cuenta con una chimenea de 20 metros de altura."
+    },
+    {
+        "name": "Hemeroteca Nacional",
+        "num": "571",
+        "lon": "-74.09115",
+        "lat": "4.63660",
+        "info": "Año: 1994",
+        "desc": "Primer piso: Deposito de Colección General, Referencia y UN Segundo piso: Publicaciones Académicas y de difusión de alta consulta, están incluidos diversos espacios como: 1 auditorio, 1 sala de eventos, 1 sala de reuniones, hall de exposiciones, cafetería, baños, parqueadero."
+    },
+    {
+        "name": "Portería Calle 45",
+        "num": "603",
+        "lon": "-74.08022",
+        "lat": "4.63488",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Instituto Interamericano de Cooperación para la Agricultura",
+        "num": "606",
+        "lon": "-74.07989",
+        "lat": "4.63656",
+        "info": "Proyecto: Firma Llorente y Ponce Año: 1963-1964",
+        "desc": "Construcción de un solo piso y en ella se encuentra la sede regional del Instituto Interamericano de Cooperación para la Agricultura entidad perteneciente a la Organización de Estados Americanos-O.E.A.- y el Centro Interamericano de la Reforma Agraria. Estas instituciones tienen la misión de brindar servicios de cooperación para generar excelencia y progreso para la agricultura que se desarrolla en nuestro medio rural. Dentro de sus instalaciones se ofrecen cursos y seminarios a los cuales puede asistir el estudiante que esté interesado."
+    },
+    {
+        "name": "Unidad de Servicios de Computación y SIA",
+        "num": "608",
+        "lon": "-74.08004",
+        "lat": "4.63741",
+        "info": "Proyecto:  Arq. Alberto Corradine Año: 1963 - 1964",
+        "desc": "Proyectado para programas docentes universitarios del Instituto Latinoamericano de Mercadeo Agrario -ILMA-. Posteriormente fue ocupado por el Centro de Investigaciones para el Desarrollo -CID-. para luego compartir predios con la Unidad de Servicios de Computación de la Universidad Nacional de Colombia. Durante algún tiempo recibió el nombre de Centro de Cálculo Electrónico."
+    },
+    {
+        "name": "Centro en Investigación y Desarrollo en Información Geográfica",
+        "num": "610",
+        "lon": "-74.08005",
+        "lat": "4.63780",
+        "info": "Proyecto:  Arq. Francisco Rojas Año: 1974 - 1975",
+        "desc": "Su objetivo era impartir docencia de fotointerpretación a nivel interamericano."
+    },
+    {
+        "name": "Central Telefónica",
+        "num": "614",
+        "lon": "-74.08183",
+        "lat": "4.63952",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Laboratorio de Química e Ingeominas",
+        "num": "615",
+        "lon": "-74.08097",
+        "lat": "4.63944",
+        "info": "Proyecto:  Arq. Leopoldo Rother Año: 1944",
+        "desc": "Construido bajo diseños iniciales del Arquitecto Leopoldo Rother, su elaboración estuvo a cargo del Ministerio de Obras Públicas, destinado para albergar residuos de las otras construcciones realizadas en el campus universitario. Actualmente esta edificación se encuentra en comodato con la Universidad y en ella Ingeominas presta servicios al público en diversos laboratorios que se desempeñan en las áreas de: Geoquímica, Minerales, Carbones, Aguas y Gases."
+    },
+    {
+        "name": "Instituto Geográfico Agustin Codazzi",
+        "num": "621",
+        "lon": "-74.07987",
+        "lat": "4.63908",
+        "info": "Proyecto:  Arq. Esguerra, Suarez, Urdaneta y Saenz Año: 1952",
+        "desc": "Otra de las construcciones que aun estando dentro de los perímetros de la Universidad Nacional, no pertenece a ésta. la edificación cumple con una misión educativa y en su interior se encuentra un museo de ciencia y geografía. Cuenta con una mapoteca con la evolución histórica de Bogotá. Posee tres pisos y un archivo detallado de eventos geográficos de Colombia."
+    },
+    {
+        "name": "Instituto Colombiano de Ingeniería Minería-INGEOMINAS",
+        "num": "631",
+        "lon": "-74.08034",
+        "lat": "4.64104",
+        "info": "Proyecto:  Arq. Esguerra, Suarez, Urdaneta y Saenz Año: 1958",
+        "desc": "Este edificio hace parte de un grupo de construcciones que le pertenecen al Instituto de Investigación e Información Geocientífica, Minero-ambiental y Nuclear -Ingeominas-, dentro de sus instalaciones cuenta con un museo geológico especializado -abierto al público- y las dependencias correspondientes a la Red Sísmica Nacional."
+    },
+    {
+        "name": "Galpón de Biología",
+        "num": "632",
+        "lon": "-74.08072",
+        "lat": "4.64044",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Portería Vehicular y Peatonal Transversal 38",
+        "num": "700",
+        "lon": "-74.08875",
+        "lat": "4.63926",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Departamento de Cine y Televisión",
+        "num": "701",
+        "lon": "-74.08552",
+        "lat": "4.64053",
+        "info": "Proyecto:  Arq. Leopoldo Rother Año: 1938 - 1940",
+        "desc": "Inicialmente construido para que compartieran espacio las oficinas administrativas y el Servicio Médico Estudiantil, posteriormente fue ocupada por la caja de Previsión Social, la Imprenta y algunas oficinas de deportes. Actualmente se encuentran en su interior las oficinas y aulas académicas de la Facultad de Cine y Televisión."
+    },
+    {
+        "name": "Diamante de Béisbol",
+        "num": "710",
+        "lon": "-74.08498",
+        "lat": "4.64124",
+        "info": "Proyecto:  Ministerio de Obras Públicas Año: 1952",
+        "desc": "Construido en un área de 17397 m2 , contemplado dentro del esquema general propuesto para el complejo deportivo de la Universidad. Su ubicación fue determinada en los planos iniciales proyectados por el arquitecto Fritz Karsen. Se construyó sin las obras planeadas de gradería y servicios complementarios. aun estas obras se encuentran sin ejecutar."
+    },
+    {
+        "name": "Estadio de fútbol -Alfonso López Pumarejo-",
+        "num": "731",
+        "lon": "-74.08644",
+        "lat": "4.64035",
+        "info": "Proyecto:  Arq. Leopoldo Rother Año: 1937 - 1939",
+        "desc": "Fue la primera zona construida del complejo de servicios deportivos planeados para la Ciudad Blanca. Se proyectó, en el año 1965, como una fuente de ingresos, pero fue imposible lograr ese objetivo. Cuenta con una capacidad para 8276 espectadores -distribuidos en dos espacios uno cubierto y otro no-. En 1965 se adaptaron sus zonas de vestuario y baños, necesarios para lograr un mejor servicio."
+    },
+    {
+        "name": "Concha Acústica",
+        "num": "761",
+        "lon": "-74.08719",
+        "lat": "4.63885",
+        "info": "Proyecto:  Arq. Leopoldo Rother Año: 1937",
+        "desc": "Fue la segunda instalación de importancia en el campus universitario. Cuenta con una gradería para 3000 espectadores. Está adecuado para practicar varios deportes bajo su estructura. entre ellos patinaje, baloncesto, microfútbol y Balonvolea. Tras varios intentos fallidos, finalmente en 1987 se ejecutó el proyecto de cubierta total del complejo deportivo. Aquí también se encuentra el Museo de la Ciencia y el Juego."
+    },
+    {
+        "name": "Edificio Uriel Gutiérrez",
+        "num": "861",
+        "lon": "-74.09017",
+        "lat": "4.63978",
+        "info": "Proyecto:  Arq. Martínez, Mejía y Bermúdez Año: 1955 - 1960",
+        "desc": "Basada en una estructura en concreto, construida por el Ministerio de Obras Públicas para el Centro Administrativo Nacional -CAN- fue cedido a la Universidad Nacional para adaptar su estructura con el fin de albergar estudiantes casados. Luego por algún tiempo permaneció fuera de uso hasta que finalmente se trasladó la sede administrativa y la rectoría de la Institución."
+    },
+    {
+        "name": "Unidad Camilo Torres",
+        "num": "862",
+        "lon": "-74.09068",
+        "lat": "4.64073",
+        "info": "Proyecto:  Arq. Elsa Mahecha y Carlos Martínez Año: 1969 - 1971",
+        "desc": "Estructura residencial concebida dentro del Programa de Bienestar Estudiantil. Cuenta con 556 apartamentos los cuales fueron ocupados por estudiantes de intercambio y otros, su diseño se basó en la posibilidad de generar un ambiente familiar y seguro. Durante su ocupación se realizaron una serie de cambios no aprobados, ejecutados por sus ocupantes, los cuales han alterado la hegemonía de la construcción. Actualmente se encuentran ocupados por entidades administrativas y de bienestar."
+    },
+    {
+        "name": "Portería Vehicular y Peatonal Calle 53",
+        "num": "901",
+        "lon": "-74.08330",
+        "lat": "4.64349",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Jardín Infantil",
+        "num": "905",
+        "lon": "-74.08403",
+        "lat": "4.64451",
+        "info": " ",
+        "desc": " "
+    },
+    {
+        "name": "Instituto Colombiano de Normas Técnicas y Certificación: Icontec",
+        "num": "910",
+        "lon": "-74.08355",
+        "lat": "4.64406",
+        "info": "Proyecto: Arq. Paulino Gómez Año: 1976 - 1977",
+        "desc": "Construido para albergar oficinas administrativas y centro de consulta del Instituto de Normas Técnicas, esta edificación se encuentra en las zonas limítrofes de la Universidad. su objetivo: suministrar la información y asesoría necesaria para lograr cumplir con las Normas Técnicas de Calidad en producción, empaque e higiene de los productos elaborados en Colombia"
+    }
+]

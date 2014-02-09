@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <ImageButton
+        android:id="@+id/university"
+        style="@style/AppBaseTheme"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+		android:src="@drawable/magnifying_glass_32x32"
+		android:scaleType="fitStart"
+		android:background="@drawable/button_custom"
+        android:layout_marginTop="34dp" />
+    
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/university"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/university"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView6"
+        android:layout_below="@+id/textView6"
+        android:text="@string/university_spec" />
+    
+    <ImageButton
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignLeft="@+id/university"
+		android:background="@drawable/button_custom"
+		android:layout_marginTop="10dp"
+        android:layout_below="@+id/university" />
+    
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/map"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/personal"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView7"
+        android:layout_below="@+id/textView7"
+        android:text="@string/personal_spec" />
+    
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/map"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/textView7"
+        android:layout_toLeftOf="@+id/textView9"
+        android:src="@drawable/map_pin_alt_16x32" />
+
+</RelativeLayout>

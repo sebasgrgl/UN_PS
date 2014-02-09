@@ -1,0 +1,228 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp">
+
+    <ImageButton
+        android:id="@+id/finder"
+        style="@style/AppBaseTheme"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+		android:src="@drawable/finder"
+		android:scaleType="fitStart"
+		android:background="@drawable/button_custom"
+		android:onClick="goFinder"
+        android:layout_marginTop="34dp" />
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/finder"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/finder"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_below="@+id/textView1"
+        android:text="@string/finder_spec" />
+    
+    <ImageButton
+        android:id="@+id/map"
+        style="@style/AppBaseTheme"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_centerHorizontal="true"
+		android:src="@drawable/mymap"
+		android:background="@drawable/button_custom"
+		android:scaleType="fitStart"
+		android:layout_below="@+id/finder"
+		android:layout_marginTop="10dp"
+		android:onClick="goMap"/>
+    
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/map"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/my_map"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_below="@+id/textView2"
+        android:text="@string/my_map_spec" />
+    
+    <ImageButton
+        android:id="@+id/events"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignLeft="@+id/map"
+        android:layout_below="@+id/map"
+        android:src="@drawable/events"
+		android:scaleType="fitStart"
+		android:background="@drawable/button_custom"
+		android:layout_marginTop="10dp"
+		android:onClick="goEvents"
+        android:gravity="center" />
+    
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/events"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/events"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_below="@+id/textView3"
+        android:text="@string/events_spec" />
+
+     <ImageButton
+        android:id="@+id/buildings"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignLeft="@+id/events"
+        android:layout_below="@+id/events"
+        android:src="@drawable/buildings"
+		android:scaleType="fitStart"
+		android:background="@drawable/button_custom"
+		android:layout_marginTop="10dp"
+		android:onClick="goBuildings"
+        android:gravity="center" />
+    
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/buildings"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/Buildings_list"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView13"
+        android:layout_below="@+id/textView13"
+        android:text="@string/buildings_spec" />
+        
+    <Button
+        android:id="@+id/button1"
+        android:clickable="true"
+        android:autoLink="web"
+        android:cursorVisible="true"
+        android:onClick="goTosia"
+        android:linksClickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/buildings"
+        android:layout_marginTop="50dp"
+        android:layout_toRightOf="@+id/textView2"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:background="@drawable/button_custom2"
+        android:text="@string/sia" />
+
+    <Button
+        android:id="@+id/button2"
+        android:clickable="true"
+        android:autoLink="web"
+        android:cursorVisible="true"
+        android:onClick="goTosinab"
+        android:linksClickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignLeft="@+id/button1"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/button1"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="bold"
+		android:layout_marginTop="10dp"
+        android:background="@drawable/button_custom2"
+        android:text="@string/sinab" />
+
+    <Button
+        android:id="@+id/button3"
+        android:clickable="true"
+        android:autoLink="web"
+        android:cursorVisible="true"
+        android:onClick="goToun"
+        android:linksClickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignLeft="@+id/button2"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/button2"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="bold"
+		android:layout_marginTop="10dp"
+        android:background="@drawable/button_custom2"
+        android:text="@string/un" />
+    
+    <Button
+        android:id="@+id/button4"
+        android:clickable="true"
+        android:autoLink="web"
+        android:cursorVisible="true"
+        android:onClick="goTomail"
+        android:linksClickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignLeft="@+id/button2"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/button3"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="bold"
+		android:layout_marginTop="10dp"
+        android:background="@drawable/button_custom2"
+        android:text="@string/correo_un" />
+    
+</RelativeLayout>
+    
+</ScrollView>
